@@ -1,16 +1,37 @@
-# Raoute-AI
-RAOUTE is an AI-powered travel planning platform that helps travelers discover destinations, attractions, restaurants, and hidden gems across the United States. Using an intelligent AI assistant, users receive personalized recommendations and custom itineraries tailored to their interests, budget, and travel preferences.
 # RAOUTE
 
 > AI-powered travel planning platform for exploring the United States.
 
-RAOUTE is an AI-powered travel planning platform designed to simplify how people discover and plan their trips across the United States. Instead of searching through multiple websites, users can explore destinations, attractions, restaurants, and travel experiences in one place while receiving personalized recommendations from an intelligent AI assistant.
+In the recent years, after observing difficulties of travellers in finding, searching, choosing and planning all destinations for travel itineraries, especially in the US- one of the biggest country in the world. I decided to develop Raoute, it's actually my first personal project.
 
-The long-term vision of RAOUTE is to combine modern web technologies with artificial intelligence to create a smarter, faster, and more personalized travel planning experience.
+Raoute is designated to simplify how people discover and plan their trips across the United States. Instead of searching through multiple websites, users can explore destinations, attractions, restaurants, and travel experiences in one place while receiving personalized recommendations from an intelligent AI assistant.
+
+The long-term vision of Raoute is to combine modern web technologies with artificial intelligence to create a smarter, faster, and more personalized travel planning experience.
 
 ---
 
 ## Features
+
+Planning a trip shouldn't mean opening dozens of tabs, comparing endless travel blogs, or spending hours searching for the right places. Raoute brings everything together in one intelligent platform, making travel planning faster, easier, and more personalized.
+
+Whether you're traveling solo, with friends, or with family, Raoute is designed to understand your unique travel style and help you create the perfect journey across the United States.
+
+AI Travel Assistant
+
+Start by chatting with RAOUTE's AI travel assistant. Instead of filling out long forms, simply answer a series of natural questions about your trip, such as:
+
+Your destination or preferred region
+Budget
+Travel dates
+Interests and hobbies
+Food preferences
+Transportation options
+Group size
+Accommodation preferences
+
+The AI analyzes your responses to understand your travel style and recommends experiences that truly match your preferences.
+
+If you want to understand all the functions and features of Raoute more clearly, please check my tutorial on Tiktok and Facebook.
 
 ### Current
 
@@ -147,12 +168,22 @@ Open `index.html` in your browser.
 ## Status
 
 🚧 Currently under active development.
+🚧 RAOUTE is currently focused on California.
+
+This first stage allows the platform to build and validate its recommendation system, travel database, and AI planning experience before expanding across the United States.
+
+Future milestones include:
+
+- 🇺🇸 Cover all 50 U.S. states
+- 🌎 Expand to international destinations
+- 🤖 Develop a more advanced AI travel assistant
+- 📱 Launch a mobile application
 
 ---
 
 ## Author
 
-Developed independently by **Nguyen Hoang**.
+Developed independently by **Nguyen Hoang Nguyen**.
 
 ---
 
