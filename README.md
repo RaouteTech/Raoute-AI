@@ -20,14 +20,21 @@ AI Travel Assistant
 
 Start by chatting with RAOUTE's AI travel assistant. Instead of filling out long forms, simply answer a series of natural questions about your trip, such as:
 
--Your destination or preferred region
--Budget
--Travel dates
--Interests and hobbies
--Food preferences
--Transportation options
--Group size
--Accommodation preferences
+Your destination or preferred region
+
+Budget
+
+Travel dates
+
+Interests and hobbies
+
+Food preferences
+
+Transportation options
+
+Group size
+
+Accommodation preferences
 
 The AI analyzes your responses to understand your travel style and recommends experiences that truly match your preferences.
 
