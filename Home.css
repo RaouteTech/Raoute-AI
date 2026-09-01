@@ -36,10 +36,10 @@ nav{
 .nav_links img{
     position: absolute;
     display: flex;
-    width: 40px;
+    width: 30px;
     height: auto;
-    left: 20px;
-    bottom: 665px;
+    left: 25px;
+    bottom: 673px;
 }
 .nav_links{
     flex: 1;
