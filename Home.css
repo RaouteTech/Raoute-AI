@@ -490,7 +490,7 @@ nav #faMenu{
 .contact{
     background-image:
         linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)),
-        url("img/banner5.jpg");
+        url("/banner5.jpg");
     background-position: center;
     background-size: cover;
     min-height: 30vh;
