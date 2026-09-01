@@ -41,11 +41,20 @@ nav{
     margin: 0;
     padding: 0;
 }
-.nav-logo{
-    width: 30px;
-    height: auto;
+.nav-logo {
+    width: 30px !important;
+    height: 30px !important;
+    object-fit: contain;
     display: block;
+    flex-shrink: 0;
     margin-right: 25px;
+}
+.nav_links ul {
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    list-style: none;
 }
 .nav_links ul li{
     position: relative;
