@@ -34,7 +34,7 @@ nav{
     padding: 10px;
 }
 .nav_links img{
-    position: relative;
+    position: absolute;
     display: flex;
     width: 30px;
     height: auto;
